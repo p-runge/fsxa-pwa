@@ -73,7 +73,7 @@
     "fsxa-pattern-library": "^6.2.0",
     "fsxa-ui": "^4.1.0",
     "husky": "^4.0.0",
-    "jest": "^24.1.0",
+    "jest": "^29.7.0",
     "lint-staged": "^10.0.0",
     "lodash.get": "^4.4.2",
     "nuxt": "^2.15.8",
