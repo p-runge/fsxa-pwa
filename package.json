@@ -78,7 +78,7 @@
     "lodash.get": "^4.4.2",
     "nuxt": "^2.15.8",
     "nuxt-property-decorator": "^2.8.8",
-    "postcss": "^8.3.6",
+    "postcss": "^8.4.31",
     "prettier": "^2.3.2",
     "semantic-release": "^17.4.7",
     "tailwindcss": "^2.2.11",
